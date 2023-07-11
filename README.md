@@ -1,7 +1,7 @@
-# Implementation of Tic Tac Toe in Virtual Reality using OpenCV in Python
+# Implementation of Tic Tac Toe in Augmented Reality using OpenCV in Python
 
 ## Description
-This project is an implementation of the classic game Tic Tac Toe in a virtual reality (VR) environment using OpenCV library in Python. It allows players to play the game by drawing wich is captured by a webcam. The opponents turn will be displayed at the screen, creating an interactive game experience. 
+This project is an implementation of the classic game Tic Tac Toe in a augmented reality (AR) environment using OpenCV library in Python. It allows players to play the game by drawing wich is captured by a webcam. The opponents turn will be displayed at the screen, creating an interactive game experience. 
 
 This is the final project of the Introduction to Image Processing course. The project involved implementing the "Augmented Reality Tic-Tac-Toe" article by Joe Maguire and David Saltzman from Stanford University. The technical aspects of the implementation focused on utilizing the OpenCV library to create a Python-based Tic-Tac-Toe game. The implementation incorporated concepts such as homography and image features, with the SIFT algorithm being used for feature detection.
 
@@ -19,5 +19,11 @@ Run the "main.py" file and do the following steps:
 - Repeat the previous step until the end of the game.
 - Press the "R" key to restart.
 
-# Demonstration
-The functioning can be seen at the link: https://youtu.be/OyUPyRpV3JU
+# Links
+Demo: https://youtu.be/OyUPyRpV3JU
+Reository: https://github.com/CristovaoBG/VR-tic-tac-toe
+Original project: https://stacks.stanford.edu/file/druid:np318ty6250/Maguire_Saltzman_Augmented_Reality_Tic_Tac_Toe.pdf
+
+# Author
+Cristóvão B. Gomes
+cristovao@live.com
