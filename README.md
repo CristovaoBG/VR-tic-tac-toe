@@ -20,9 +20,9 @@ Run the "main.py" file and do the following steps:
 - Press the "R" key to restart.
 
 # Links
-Demo: https://youtu.be/OyUPyRpV3JU
-Reository: https://github.com/CristovaoBG/VR-tic-tac-toe
-Original project: https://stacks.stanford.edu/file/druid:np318ty6250/Maguire_Saltzman_Augmented_Reality_Tic_Tac_Toe.pdf
+- Demo: https://youtu.be/OyUPyRpV3JU
+- Reository: https://github.com/CristovaoBG/VR-tic-tac-toe
+- Original project: https://stacks.stanford.edu/file/druid:np318ty6250/Maguire_Saltzman_Augmented_Reality_Tic_Tac_Toe.pdf
 
 # Author
 Cristóvão B. Gomes
